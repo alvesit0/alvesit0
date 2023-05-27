@@ -5,7 +5,7 @@
 </p>
 
 <h2 align="center"> About me </h2>
-<p align="justify"> Hi, I'm Alvesito, but you can just call me Alves. I'm a software engineering student at University of Oviedo, and I'm currently in third grade. I love everything related to software, especially fields like graphical engines, video game development and cybersecurity. <p>
+<p align="justify"> Hi, I'm Alvesito, but you can just call me Alves. I'm a software engineering student at University of Oviedo, and I'm currently in third grade. I love everything related to software, especially fields like graphics engines and video game development. <p>
 
 <p align="justify"> I also make games in my free time! If you're interested, you can check them out below.<p>
 
